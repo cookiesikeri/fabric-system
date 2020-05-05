@@ -1,0 +1,28 @@
+{
+  "db": {
+    "url": "****"
+  },
+  "session": {
+    "saveUninitialized": true,
+    "resave": true,
+    "secret": "Fabrique"
+  },
+  "mailer": {
+    "service": "gmail",
+    "auth": {
+      "user": "****",
+      "pass": "****"
+    }
+  },
+  "thumbs": {
+    "width": 198,
+    "height": 150
+  },
+  "images": {
+    "width": 315,
+    "height": 271
+  },
+  "recipient": {
+    "email": "denny.lysenko@gmail.com"
+  }
+}
