@@ -27,6 +27,6 @@
     "request": "^2.58.0",
     "sequelize": "^3.18.0",
     "serve-favicon": "~2.2.1",
-    "validator": "^3.40.1"
+    "validator": "^13.7.0"
   }
 }
